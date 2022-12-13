@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markwkern, username of Mark W. Kernodle
-- 👀 I’ve been writing C code since 1981, more recently C++, and starting to use golang as of late.
+- 👀 I’ve been writing C code since 1981, C++ when it makes sense, and enjoying golang more and more.
 - 📫 You can reach me at mark.kernodle@outlook.com
 
 <!---
